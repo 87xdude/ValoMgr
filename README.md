@@ -72,13 +72,6 @@ Für Rang-Abrufe werden **zwei** Dienste benötigt:
 > Vorteil: Im Manager sind keine PW gespeichert; nur Referenz auf den KeePass-Eintrag.
 
 ---
-
-## ⚙️ Konfiguration & Pfade
-
-- **Vault-Pfad**: wird automatisch auf einen stabilen, **nicht-Temp**-Ort gelegt.  
-  Du kannst ihn via **Einstellungen** oder Umgebungsvariable überschreiben:
-  - `CVALOMGR_VAULT` – absoluter Pfad zu `vault.dat`
-- **Icons**: Valorant-Rank-Icons können lokal bereitgestellt werden (z. B. `app/resources/valo_tracker_icons/…`).  
   Dateinamen folgen dem Rang (`dia1.png`, `asc3.png`, …); der Manager findet sie automatisch.
 - **Taskleisten-Icon**: `app/resources/exe_logo.ico` (Multi-Size-ICO) wird als App-Icon verwendet.
 
