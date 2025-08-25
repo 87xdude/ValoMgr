@@ -72,7 +72,3 @@ Für Rang-Abrufe werden **zwei** Dienste benötigt:
 > Vorteil: Im Manager sind keine PW gespeichert; nur Referenz auf den KeePass-Eintrag.
 
 ---
-  Dateinamen folgen dem Rang (`dia1.png`, `asc3.png`, …); der Manager findet sie automatisch.
-- **Taskleisten-Icon**: `app/resources/exe_logo.ico` (Multi-Size-ICO) wird als App-Icon verwendet.
-
----
